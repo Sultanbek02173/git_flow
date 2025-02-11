@@ -1,3 +1,4 @@
+import { HomePage } from '../../pages'
 import './App.css'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
           </h1>
         </div>
       </header>
+      <HomePage />
     </>
   )
 }
