@@ -1,0 +1,1 @@
+export { Baner } from './homeSections/baner/Baner';
